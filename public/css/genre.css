@@ -1,0 +1,27 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+    font-family: 'Gotham', sans-serif;
+}
+
+body {
+    background-color: #17171a;
+    background-image: url('./images/');
+}
+
+.check-row {
+    display: flex;
+    min-height: 1.5rem;
+    padding-left: 1.5em;
+    margin-bottom: 0.125rem;
+    justify-content: center;
+} 
+
+.check-row .checkbox-inline .checkbox{
+    color: white;
+} 
+
+.button {
+    margin-left: 40% !important;
+}
