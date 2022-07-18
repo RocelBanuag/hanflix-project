@@ -1,0 +1,41 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+    font-family: 'Gotham', sans-serif;
+}
+
+.bg-img {
+    background-image: url('./images/bghanflix4.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+} 
+
+.content {
+    margin-top: 10% !important;
+}
+
+#subscribe {
+    float: left;
+	position: absolute;
+	text-decoration: none;
+	color: white;
+	left: 41.22%;
+	padding: 5px 15px 5px 15px;
+	border-radius: 2px;
+	font-size: 30px;
+}
+
+.mid-container {
+    margin-top: 10%;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+
+
+#picture {
+    width: 50%;
+    height: 80%;
+    margin: 25px 5px 25px 5px;
+}
